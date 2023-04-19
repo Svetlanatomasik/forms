@@ -3,6 +3,7 @@
 Technologies that I used in the app:
 
 -React
+
 -CSS
 
 In this form I add some basic validation,
